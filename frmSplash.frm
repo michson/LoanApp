@@ -187,7 +187,6 @@ Private Sub Form_KeyPress(KeyAscii As Integer)
 End Sub
 
 
-
 Private Sub Frame1_Click()
     Unload Me
 End Sub
