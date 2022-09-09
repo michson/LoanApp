@@ -192,5 +192,4 @@ Private Sub Frame1_Click()
 End Sub
 
 Private Sub Label2_Click()
-
 End Sub
