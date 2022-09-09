@@ -1,5 +1,4 @@
 VERSION 5.00
-
 Begin VB.Form frmSplash 
    ClientHeight    =   6465
    ClientLeft      =   270
