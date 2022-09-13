@@ -125,7 +125,6 @@ Dim icount As Integer
 Dim k As Integer
 
 
-
 Private Sub Form_Activate()
 lblattend.Visible = False
 lblani.Visible = False
