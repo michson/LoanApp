@@ -29,7 +29,6 @@ Begin VB.Form FrmMain
    End
 End
 
-
 Attribute VB_Name = "FrmMain"
 Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
