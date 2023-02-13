@@ -45,6 +45,7 @@ Begin VB.Form frmLogin
       Top             =   600
       Width           =   4215
    End
+
    Begin VB.Image Image1 
       Height          =   705
       Left            =   0
