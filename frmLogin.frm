@@ -1,3 +1,4 @@
+
 VERSION 5.00
 Begin VB.Form frmLogin 
    AutoRedraw      =   -1  'True
